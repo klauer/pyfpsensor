@@ -5,6 +5,9 @@ Two incomplete interfaces:
 * TCP interface, using the telegram protocol ([fpsensor/proto])
 * ctypes bindings for the supplied userlib ([fpsensor/userlib])
 
+Both were restructured and put into this package and, post-restructuring,
+untested.
+
 
 TCP Interface
 =============
